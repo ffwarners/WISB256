@@ -1,2 +1,5 @@
-N_greeting = input("How many greetings? ")
-print(N_greeting,"x Hello,",Name)
+Name = input("What is your name? ")
+print('Hello ', Name, '!')
+
+
+
