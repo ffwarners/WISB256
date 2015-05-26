@@ -7,7 +7,7 @@
 
 import math
 
-def findroot(f, a, b, tol):
+def findRoot(f, a, b, tol):
     Nmax=1000
     n=1
     while n<=Nmax:
